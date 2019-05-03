@@ -1,0 +1,43 @@
+.logo{
+    width: 12%;
+    height: auto;
+}
+
+.menu{
+    margin-left: 35%;
+}
+
+.nav-style{
+    background-color: #092a35;
+    margin-bottom: 2%;
+}
+
+.title-menu{
+    /* margin: 0 auto; */
+    color: #f8eeb4;
+    font-size: 2em;
+    font-family: "Qwerty Ability";
+}
+
+.title-menu:hover{
+    color: #f8eeb4;
+}
+
+.menu-item{
+    font-size: 1.4em;
+}
+
+.item{
+    color: #f8eeb4;
+    transition: 600ms;
+}
+
+.item:hover{
+    color: #092a35;
+    background-color: #f8eeb4;
+}
+
+.item-active{
+    background-color: #f8eeb4;
+    color: #092a35;
+}

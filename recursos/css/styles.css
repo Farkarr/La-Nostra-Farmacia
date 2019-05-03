@@ -1,0 +1,27 @@
+@font-face {
+    font-family: "Ananda";
+    src: url("../fonts/Ananda\ Personal\ Use.ttf");
+}
+
+@font-face {
+    font-family: "Qwerty Ability";
+    src: url("../fonts/Qwerty\ Ability\ -\ Personal\ Use.otf");
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+}
+
+body{
+    padding-top: 56px;
+    font-family: "Ananda";
+}
+
+
+    
+
+
+
