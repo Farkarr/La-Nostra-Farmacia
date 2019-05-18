@@ -14,3 +14,14 @@
     height: 50px;
     visibility: hidden;
 }
+
+.miniaturas{
+    width: 100%;
+    height: 200px;
+    margin-bottom: 20%;
+}
+
+.font-miniat{
+    font-size: 1.4em;
+    color: black;
+}
