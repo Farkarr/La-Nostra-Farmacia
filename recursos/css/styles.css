@@ -1,9 +1,4 @@
 @font-face {
-    font-family: "Ananda";
-    src: url("../fonts/Ananda\ Personal\ Use.otf");
-}
-
-@font-face {
     font-family: "Qwerty Ability";
     src: url("../fonts/Qwerty\ Ability\ -\ Personal\ Use.otf");
 }
@@ -13,6 +8,7 @@
     padding: 0;
     list-style: none;
     text-decoration: none;
+    font-family: 'Dancing Script', cursive;
 }
 
 body{
