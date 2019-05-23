@@ -26,7 +26,42 @@
     margin-bottom: 20%;
 }
 
+.miniaturas-grupo{
+    width: 80%;
+    height: 10px;
+    margin-bottom: 20%;
+}
+
 .font-miniat{
     font-size: 1.4em;
     color: black;
 }
+
+
+.card-header{
+
+    text-align: center;
+    background-color: #092a35;
+    transition: 800ms;
+}
+
+.card-header a{
+
+    color: #f8eeb4;
+    text-decoration: none;
+    font-size: 2px;
+}
+
+.card-header:hover{
+
+    text-align: center;
+    background-color: #f8eeb4;
+    color: #092a35;
+}
+
+.card-header a:hover{
+
+    color: #092a35;
+}
+
+
